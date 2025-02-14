@@ -2,7 +2,6 @@
 title: "Probando 1, 2, 3"
 description: "Esto es una prueba nada más."
 date: "2025.02.14"
-image: "/static/blog-placeholder.png"  
 ---
 
 Se basa en usar algún producto para limpiar la madera que tiene manchas:
