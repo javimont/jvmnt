@@ -1,7 +1,7 @@
 ---
-title: "Customizing Miniblog"
-description: "How to customize the Miniblog blog theme."
-date: "Nov 26 2024"
+title: "Probando 1, 2, 3"
+description: "Esto es una prueba nada más."
+date: "2025.02.14"
 image: "/static/blog-placeholder.png"  
 ---
 
