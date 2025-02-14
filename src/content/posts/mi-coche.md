@@ -4,7 +4,7 @@ description: "Me gusta mi coche."
 date: "2024.08.13"
 ---
 
-# Mi coche
+# Me gusta mi coche
 Mi coche es un Peugeot 107 Trendy y me gusta.
 La primera matriculación se hizo en octubre 2010 por lo que tiene ya 14 años. Es mi primer coche de verdad (el primero puesto a mi nombre). El motor es fabricado por Toyota y es del tipo [G-1KR](https://en.wikipedia.org/wiki/Toyota_KR_engine), con 998 cm cúbicos y una potencia máxima de 68 CV. Es del llamado [Segmento A](https://es.wikipedia.org/wiki/Segmento_A) aunque en Japón sería considerado un [軽自動車, keijidōsha](https://es.wikipedia.org/wiki/Kei_car), un segmento fiscal que se da allí desde la Segunda Guerra Mundial. Es una carrocería de tipo _Hatchback_.
 
